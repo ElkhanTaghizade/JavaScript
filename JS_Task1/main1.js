@@ -199,5 +199,42 @@ for (let i=0; i<fullname.length; i++)
 // for(var item of arr2){
 //     console.log(item);
 //     }
+// var maxnuml=arr2[0].name.length
+// var index=0;
+// for(let i=0; i<arr2.length; i++)
+// {
+//   if(arr2[i].name.length>maxnuml)
+//   {
+//     maxnuml=arr2[i].name.length
+//     index=i
+//   }
+// }
+// console.log(arr2[index].key)
+// console.log(index*index)
+// var newarr=[];
+// for(let i=0; i<arr2.length; i++)
+// {
+//   if(arr2[i].name.length==4)
+//   {
+//     newarr.push(arr2[i])
+//   }
+// }
+// for(var item of newarr){
+//   console.log(item);
+//   }
+// var maxkey=arr2[0].key
+// var index=0;
+// for(let i=0; i<arr2.length; i++)
+// {
+//   if(arr2[i].key>maxkey)
+//   {
+//     maxkey=arr2[i].key
+//     index=i;
+//   }
+// }
+//   console.log(arr2[index].name);
+
+
+
       
 
